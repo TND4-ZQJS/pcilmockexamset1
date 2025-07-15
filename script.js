@@ -8,7 +8,7 @@ const jumpInput = document.getElementById("jump-input");
 const jumpBtn = document.getElementById("jump-btn");
 
 // ✅ Replace this URL with your GitHub raw link later
-const jsonURL = "https://tnd4-zqjs.github.io/main/pcilmockexamset1/set1.json";
+const jsonURL = "https://raw.githubusercontent.com/tnd4-zqjs/pcilmockexamset1/main/set1.json";
 
 fetch(jsonURL)
   .then((res) => res.json())
