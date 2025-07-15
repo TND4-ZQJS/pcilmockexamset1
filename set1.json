@@ -274,3 +274,279 @@
     },
     "answer": "A"
   }
+  ,
+  {
+    "id": 26,
+    "question": "The following does NOT reflect an act of good faith on the part of an agent when dealing with the principal:",
+    "options": {
+      "A": "Maintaining confidentiality of personal data",
+      "B": "Not concealing any relevant information",
+      "C": "Not accepting secret commissions",
+      "D": "Acting for his own personal interests at all times"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 27,
+    "question": "An agent is prohibited from, 'engaging in conduct that is misleading or deceptive, or is likely to mislead or deceive in relation to the nature, features, terms or price of any financial service or product' as stipulated under",
+    "options": {
+      "A": "Schedule 9 of the Financial Services Act 2013",
+      "B": "Schedule 12 of the Financial Services Act 2013",
+      "C": "Schedule 10 of the Financial Services Act 2013",
+      "D": "Schedule 7 of the Financial Services Act 2013"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 28,
+    "question": "In Malaysia, insurance agencies are created",
+    "options": {
+      "A": "Only through appointment by express agreement",
+      "B": "Through the creation of agency necessity",
+      "C": "Through agency by ratification",
+      "D": "Through implied agreement"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 29,
+    "question": "Which of the following methods is NOT used by insurers when dealing with sub-standard lives?",
+    "options": {
+      "A": "Alternative form of contract",
+      "B": "Imposing a contingent debt or a loan",
+      "C": "Charging an extra premium",
+      "D": "Offering a premium discount"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 30,
+    "question": "Contributory group medical and health insurance plans usually require participation of at least ____________ of the eligible members of the group.",
+    "options": {
+      "A": "75%",
+      "B": "85%",
+      "C": "80%",
+      "D": "70%"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 31,
+    "question": "The objective of a disability income insurance policy is to",
+    "options": {
+      "A": "Reimburse medical expenses incurred",
+      "B": "Provide an income stream to replace wages lost",
+      "C": "Pay a lump sum on permanent total disablement",
+      "D": "Pay an allowance during the period of hospitalization"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "question": "Benefit Limitations are modifications to medical and health insurance coverage. The following limitation does NOT fall in this category:",
+    "options": {
+      "A": "Shortening of the payment period of disability income",
+      "B": "Reduction of the amount of benefit payable",
+      "C": "Imposition of a larger deductible on medical expenses",
+      "D": "Option to reduce coverage at the time of a claim"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 33,
+    "question": "If a group policy owner has no ______________ in the persons insured under a group medical and health insurance policy, the insurer must assign benefits, rights and obligation to each and every insured person.",
+    "options": {
+      "A": "utmost good faith",
+      "B": "personal interest",
+      "C": "contractual capacity",
+      "D": "insurable interest"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 34,
+    "question": "Which following are methods of underwriting to avoid anti-selection when dealing with sub-standard risks or high-risk individuals?",
+    "options": {
+      "A": "I, II and III",
+      "B": "I, II and IV",
+      "C": "II, III and IV",
+      "D": "I, II, III and IV"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 35,
+    "question": "In respect of renewal where the insured has made previous claims or has pending claims under an existing medical and health insurance policy, an insurer should",
+    "options": {
+      "A": "Unilaterally terminate cover during the period of insurance",
+      "B": "Refuse to renew cover for a risk already insured",
+      "C": "Exclude cover for a specific disability which gave rise to a previous claim",
+      "D": "Refuse to renew a policy that is guaranteed renewable"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 36,
+    "question": "When policyholders surrender a life policy, they lose",
+    "options": {
+      "A": "Half the cash value after deduction for surcharge",
+      "B": "Only the death benefit cover",
+      "C": "Three quarters of all accumulated savings and earnings",
+      "D": "All benefits including life insurance protection"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 37,
+    "question": "An employer has insurable interest in the life of a key employee (shareholder or partner) whose _____________ could adversely affect the sustainability of the business.",
+    "options": {
+      "A": "Premature resignation",
+      "B": "Early retirement",
+      "C": "Premature death",
+      "D": "Immediate termination"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 38,
+    "question": "The life insurer will refund the money to the insured",
+    "options": {
+      "A": "If the insured can improve that the insurer is making more profit than declared",
+      "B": "If the insured can prove that he is healthier now than before",
+      "C": "If the insurer makes more profit more than expected",
+      "D": "If the real age of insured is less than that stated in the policy"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 39,
+    "question": "A life policy in which the surrender value is used as a single premium to provide for continued coverage on the original terms, but for it reduced sum assured is known as",
+    "options": {
+      "A": "A term policy",
+      "B": "A fee policy",
+      "C": "An extended policy",
+      "D": "A paid-up policy"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 40,
+    "question": "Policy monies payable under a life policy or monies payable on the surrender of a life policy shall be paid",
+    "options": {
+      "A": "Less deduction for the medical expenses",
+      "B": "Without any deduction for monies not due under the policy",
+      "C": "Without the consent of persons entitled",
+      "D": "Only upon death or maturity of the policy"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 41,
+    "question": "A life insurance policy will not lapse or be forfeited but may be converted to a paid-up policy if it has acquired ____________ value.",
+    "options": {
+      "A": "A market",
+      "B": "A surrender",
+      "C": "An investment",
+      "D": "A residual"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 42,
+    "question": "Select the statement that is NOT correct concerning a rider.",
+    "options": {
+      "A": "It supplements a basic policy with additional coverage",
+      "B": "It provides bonus for customers",
+      "C": "It is an additional coverage at customer’s choice",
+      "D": "It includes additional benefits at an extra cost on top of the basic premium"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 43,
+    "question": "_____________ insurance is the earliest and simplest form of life insurance for a fixed term or period and is not permanent.",
+    "options": {
+      "A": "Whole life",
+      "B": "Investment-linked",
+      "C": "Endowment",
+      "D": "Term"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 44,
+    "question": "The term “assurance” in life assurance means coverage of an event that is ____________ to happen.",
+    "options": {
+      "A": "Predicted",
+      "B": "Impossible",
+      "C": "Uncertain",
+      "D": "Certain"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 45,
+    "question": "Participating life insurance policyholders have the right to share in the divisible surplus of the life insurance fund if",
+    "options": {
+      "A": "The life assureds survive them",
+      "B": "There is a guaranteed insurability option on the policy",
+      "C": "The assets of the insurance fund exceed the liabilities",
+      "D": "There is a rider on the basic life insurance policy"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 46,
+    "question": "Which of the following is an example of initial expenses?",
+    "options": {
+      "A": "Litigation expenses",
+      "B": "Policy servicing expenses",
+      "C": "Claims payments expenses",
+      "D": "Advertising costs"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 47,
+    "question": "A life insurer can manage anti-selection of risks by ____________.",
+    "options": {
+      "A": "Proposing additional life policies to be taken up",
+      "B": "Reducing the death benefit or sum assured but on standard rates and premium",
+      "C": "Rejecting the proposal with no questions asked",
+      "D": "Referring the potential client to another insured"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 48,
+    "question": "In making comparisons with other types of policies or forms of investment, an agent should",
+    "options": {
+      "A": "Make biased comparisons with the benefits, terms and conditions of policies from other insurers",
+      "B": "Induce the prospective policy owner to buy his products even if they are inferior to other products",
+      "C": "Persuade the prospective policy owner to cancel his existing policy of insurance",
+      "D": "Make clear distinction between the different characteristic of each policy or investment"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 49,
+    "question": "In obtaining underwriting information, an insurance agent should ensure the completion of the proposal form and the _____________.",
+    "options": {
+      "A": "Credibility of the medical report",
+      "B": "Accuracy of relevant records",
+      "C": "Relevance of questions",
+      "D": "Integrity of personal data"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 50,
+    "question": "Life insurance business is based on trust and honesty, requiring a high degree of responsibility and professionalism by insurance ____________.",
+    "options": {
+      "A": "Intermediaries",
+      "B": "Consumers",
+      "C": "Companies",
+      "D": "Brokers"
+    },
+    "answer": "A"
+  }
