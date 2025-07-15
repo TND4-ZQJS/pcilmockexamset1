@@ -550,3 +550,236 @@
     },
     "answer": "A"
   }
+    ,
+  {
+    "id": 51,
+    "question": "Which of the following is NOT among the duties of the agent?",
+    "options": {
+      "A": "To conduct business with utmost good faith and integrity",
+      "B": "To prevent misuse of information",
+      "C": "To let his own interest conflict with his obligations to the principal",
+      "D": "To ensure confidentiality of communication and transactions"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 52,
+    "question": "Investment-linked insurance is also available in USA and it is named ____________ life insurance.",
+    "options": {
+      "A": "Universal",
+      "B": "Multinational",
+      "C": "Variable",
+      "D": "International"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 53,
+    "question": "The statement below is correct about regular premium investment-linked insurance:",
+    "options": {
+      "A": "The minimum annual premium allowed by insurers is RM 5,000",
+      "B": "Bank Negara Malaysia guidelines do not stipulate the minimum annual premium",
+      "C": "Bank Negara Malaysia guidelines regarding minimum annual premium allowed must be followed",
+      "D": "The maximum annual premium allowed by insurers is RM 10,000"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 54,
+    "question": "Identify the statement that is correct.",
+    "options": {
+      "A": "Traditional insurance products are more transparent and flexible",
+      "B": "Investment-linked insurance products cater for more flexibilities and transparencies",
+      "C": "Traditional insurance products offer a better investment return",
+      "D": "Investment-linked insurance products offer a guaranteed return on investment"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 55,
+    "question": "Choose the statement that is correct regarding a regular premium investment-linked policy.",
+    "options": {
+      "A": "Regular premium investment-linked insurance is more inclined towards investment than protection",
+      "B": "80% of the premium received by the insurer for regular premium investment-linked insurance is used to purchase fund units in the first year",
+      "C": "100% of the premium received for regular premium investment-linked insurance is used to purchase fund units in the first year",
+      "D": "Regular premium investment-linked insurance is more inclined towards protection than investment"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 56,
+    "question": "Donald, aged 56, wants to purchase an investment-linked form Triple Ace Insurance Berhad. If his basic regular premium is RM 6,000, he will be covered for a minimum of",
+    "options": {
+      "A": "RM 600,000",
+      "B": "RM 60,000",
+      "C": "RM 350,000",
+      "D": "RM 90,000"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 57,
+    "question": "If a policy owner makes top-ups on a single premium investment-linked policy,",
+    "options": {
+      "A": "Each top-up will increase the amount of coverage by 125%",
+      "B": "The charges for each top-up will be 5% and the balance will be used to purchase units in selected funds",
+      "C": "Each top-up will be calculated as bonus units",
+      "D": "Each top-up will be used to purchase units"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 58,
+    "question": "The following statement is correct regarding the deduction of the cost of insurance (COI) for single premium investment-linked policies:",
+    "options": {
+      "A": "The COI is used to cover the basic sum assured and future premium in advance",
+      "B": "Deduction of COI will be made annually in any circumstances",
+      "C": "The COI will still be deducted even though the account value exceeds the basic sum assured",
+      "D": "Deduction of COI is to cover the shortfall between the account value and the sum assured"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 59,
+    "question": "Investors also have secondary objectives that are closer to their hearts, that are more focused on specific needs. One example is:",
+    "options": {
+      "A": "Saving up for funds for their children’s future business",
+      "B": "Ensuring a comfortable standard of living",
+      "C": "Ensuring a comfortable annual holiday for the family",
+      "D": "Guaranteeing a successful business operation"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 60,
+    "question": "To ascertain the correct mix of objectives that client has and to realise the completion of these objectives, the agent has to make sure that clients are given a sound understanding of how __________.",
+    "options": {
+      "A": "The expert decides",
+      "B": "To achieve high return",
+      "C": "Investments work",
+      "D": "To do technical analysis"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 61,
+    "question": "Generally, people invest for the following objectives:\nI. Hedging inflation\nII. Liabilities cancellation\nIII. Providing funds for child education\nIV. Delaying retirement age",
+    "options": {
+      "A": "I, II and III",
+      "B": "I, II and IV",
+      "C": "II, III and IV",
+      "D": "I, II, III and IV"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 62,
+    "question": "“The investor can convert his investment from a fixed interest loan to being a part-owner who is then entitled to a share of the company’s profits through dividends declared.” The statement best explains _____________ stocks.",
+    "options": {
+      "A": "Loan",
+      "B": "Ordinary",
+      "C": "Convertible",
+      "D": "Debenture"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 63,
+    "question": "Identify from the following those that are a type of fixed income securities.",
+    "options": {
+      "A": "Preference Shares",
+      "B": "Warrant Shares",
+      "C": "Stocks",
+      "D": "Ordinary Shares"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 64,
+    "question": "Select the statement that is correct:",
+    "options": {
+      "A": "If we want to compare single premium investment-linked (SP-IL) life insurance with unit trusts (UTs), we can find no differences at all between them",
+      "B": "Withdrawals from EPF may not be made on a regular basis",
+      "C": "Malaysians who contribute to the Employees Provident Fund (EPF) are allowed to utilize a portion of their EPF account to invest in funds offered by approved unit trust operating companies",
+      "D": "The array of funds available for selection in the unit trust industry may generally be smaller than that offered by an insurance company"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 65,
+    "question": "Identify the three basic types of real estate investments.",
+    "options": {
+      "A": "Agricultural property, residential property and commercial/industrial property",
+      "B": "Development property, residential property and commercial/industrial property",
+      "C": "Agricultural property, residential property and high-rise/high-value property",
+      "D": "Development property, residential property and high-rise/high-value property"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 66,
+    "question": "Select the list of investments that is arranged in order of lowest risk to highest risk.",
+    "options": {
+      "A": "Property funds, equity funds, derivative funds",
+      "B": "Equity funds, derivative funds, property funds",
+      "C": "Derivative funds, equity funds, property funds",
+      "D": "Equity fund, property funds, derivative funds"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 67,
+    "question": "One consequence of ‘twisting’ by a life insurance agent is when the policyholder moves his policy from one insurer to another, the policyholder",
+    "options": {
+      "A": "Will not become eligible for any other policies and come under the non-forfeiture system",
+      "B": "Can commence a new policy to be qualified by the insurance company to become eligible for a surrender value and come under the specially funded system",
+      "C": "Can opt to stop the future payment of the old policy once the new one is approved. He will become eligible for a surrender value and come under non-forfeiture system",
+      "D": "Must commence again the qualifying period (usually two or three years) before the new insurance will become eligible for a surrender value and come under the non-forfeiture system"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 68,
+    "question": "With regard to the guidelines concerning the disclosure of underwriting information, the task of ensuring the proposer understands all the consequences of non-disclosure and inaccuracies is with the agent. To do this, the agent should",
+    "options": {
+      "A": "Make sure two witnesses are present during the meeting to protect the agent in case of a dispute",
+      "B": "Ensure all the consequences of non-disclosure and inaccuracies are pointed out personally to the proposer",
+      "C": "Make a video recording during the meeting to ensure that the proposer will not complain in the future",
+      "D": "Make sure that all the documents needed are available during the meeting and the proposer’s signature is on the documents"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 69,
+    "question": "If an intermediary realizes a prospective policy owner has a policy that is very much inferior compared to what his insurer offers, the",
+    "options": {
+      "A": "Intermediary should inform the prospective policy owner of all the benefits available in the policy his insurer offers as it will help influence the prospective policy owner to cancel his existing policy",
+      "B": "Intermediary should not attempt to persuade the prospective policy owner to cancel the existing unless it is clearly unsuitable to his needs",
+      "C": "Offer both plans and the existing policy so the prospective policy owner will be influenced and decide to alter policy",
+      "D": "Intermediary should insist that the prospective policy owner purchase a new policy while continuing with the one he already has"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 70,
+    "question": "When an intermediary is supplied with an illustration by the insurer, the intermediary should",
+    "options": {
+      "A": "Highlight only the part of the illustration that will attract the proposer",
+      "B": "Use the whole illustration and show it to the proposer and not add it or hide any part of it",
+      "C": "Be creative and produce an enhanced version of the illustration to attract the proposer",
+      "D": "Keep the illustration in the proposal form and only provide a verbal explanation of the illustration to the proposer"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 71,
+    "question": "A prospective policy owner may ask the intermediary for advice concerning the technical aspect of investment. Identify what the intermediary should do:",
+    "options": {
+      "A": "The intermediary should offer his advice as he must be knowledgeable in all aspects of investment",
+      "B": "The intermediary should immediately offer advice, whether he is knowledgeable or not",
+      "C": "The intermediary should advise only on those matters in which he is competent and recommend another specialist if necessary",
+      "D": "The intermediary should inform the prospect that is not a big issue"
+    },
+    "answer": "C"
+  }
+]
