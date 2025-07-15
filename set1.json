@@ -1,0 +1,276 @@
+[
+  {
+    "id": 1,
+    "question": "When buying life insurance, an individual will benefit from ___________?",
+    "options": {
+      "A": "compelled savings",
+      "B": "good health",
+      "C": "investment return",
+      "D": "long life"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 2,
+    "question": "The first stage in Risk Management is",
+    "options": {
+      "A": "transfer",
+      "B": "control",
+      "C": "identification",
+      "D": "analysis"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 3,
+    "question": "The following differentiates insurance from gambling:",
+    "options": {
+      "A": "Insurable risks whose financial value is measurable",
+      "B": "Inevitable losses beyond the control of the insured",
+      "C": "Homogeneous or similar risks in large numbers",
+      "D": "Insurable interest in the subject matter insured"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 4,
+    "question": "An example of moral hazard is",
+    "options": {
+      "A": "dishonest employees",
+      "B": "engaging in dangerous sports",
+      "C": "unguarded premises",
+      "D": "storage of hazardous chemicals"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 5,
+    "question": "The government and society as a whole are solely responsible for this type of risks:",
+    "options": {
+      "A": "Particular risks",
+      "B": "Speculative risks",
+      "C": "Pure risks",
+      "D": "Fundamental risks"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 6,
+    "question": "In a life proposal where age is a material fact, _____________ is required to avoid a misrepresentation by the proposer.",
+    "options": {
+      "A": "the death certificate",
+      "B": "the driving license",
+      "C": "the proposal form",
+      "D": "proof of age"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 7,
+    "question": "A policy owner must have attained ____________ of age to nominate a person to receive monies under a life or personal accident policy upon his death.",
+    "options": {
+      "A": "15 years",
+      "B": "18 years",
+      "C": "16 years",
+      "D": "21 years"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "question": "‘The active efficient cause that sets in motion a chain of events which brings about a result, without intervention of any force started and working actively from a new independent source’. This is the definition of",
+    "options": {
+      "A": "remote cause",
+      "B": "Single cause",
+      "C": "Proximate cause",
+      "D": "Independent cause"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "question": "The requirement of insurable interest is merely to ensure that insurance is not abused for the speculation, wagering or ____________.",
+    "options": {
+      "A": "Gambling",
+      "B": "Profiteering",
+      "C": "Gaming",
+      "D": "Investing"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "For non-consumer insurance contracts, the following will NOT be exempted from the duty of disclosure by the proposer:",
+    "options": {
+      "A": "Information the insurer is expected to know in the course of their business",
+      "B": "Information which the insurer has waived as required to be disclosed",
+      "C": "Information that is of common knowledge",
+      "D": "Information regarding the nature and type of occupation"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 11,
+    "question": "In the absence of any specific questions in the proposal form, an insured is not required to disclose a fact that ___________.",
+    "options": {
+      "A": "Diminishes the risk to insurer",
+      "B": "Increases the risk to the insurer",
+      "C": "Influences the decision in acceptance of the risk",
+      "D": "Affects insurer’s rating of the risk"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "Where there is a double insurance and the relevant policies contain a contribution condition the insured is obliged to claim against both insurers. The amount recoverable from each of the insurers is",
+    "options": {
+      "A": "An equal proportion of the loss irrespective of the sums insured",
+      "B": "An equal proportion of the loss in accordance with the respective sums insured",
+      "C": "The rateable proportion of the loss in accordance with the respective sum insured",
+      "D": "The rateable proportion of the sum insured in accordance with the loss"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "question": "Which of the following is NOT a money laundering activity?",
+    "options": {
+      "A": "Consolidation",
+      "B": "Layering",
+      "C": "Placement",
+      "D": "Integration"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 14,
+    "question": "Which of the following are the underlying concepts that drive the acceptance of the takaful system in Malaysia?",
+    "options": {
+      "A": "I, II and III",
+      "B": "I, II and IV",
+      "C": "I, III and IV",
+      "D": "II, III and IV"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "question": "Identify which of the following are NOT covered by the provisions of Perbadanan Insurans Deposit Malaysia (PIDM).",
+    "options": {
+      "A": "Reinsurance companies",
+      "B": "Takaful companies",
+      "C": "Commercial banks",
+      "D": "Islamic banks"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 16,
+    "question": "The following are among what the data user needs to consider to comply with the principle of security under Personal Data Protection Act 2010 (PDPA).",
+    "options": {
+      "A": "I, II and III",
+      "B": "I, II and IV",
+      "C": "I, III and IV",
+      "D": "II, III and IV"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 17,
+    "question": "The Competition Act 2010 came into force",
+    "options": {
+      "A": "to encourage healthy competition among retailers",
+      "B": "to promote collaboration among commercial entities",
+      "C": "to promote collaboration among consumers",
+      "D": "to curtail anti-competitive practices"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 18,
+    "question": "What are the primary objectives of the Financial Services Act 2013 (FSA) and the Islamic Financial Services Act 2013 (IFSA)?",
+    "options": {
+      "A": "I and II",
+      "B": "II and III",
+      "C": "I, II and III",
+      "D": "I, II, III and IV"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 19,
+    "question": "An insurance contract is",
+    "options": {
+      "A": "A legally binding agreement between insured and the insurer",
+      "B": "A guarantee by an insurer to insure all types of risks",
+      "C": "A promise by an insurer to pay a fixed sum of money",
+      "D": "An agreement to protect the well-being of an insured person"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 20,
+    "question": "A key characteristic for a contract to be considered legally binding is the",
+    "options": {
+      "A": "Mutual agreement arising out of goodwill",
+      "B": "Intention to create a legal relationship",
+      "C": "Freedom to contract by all parties",
+      "D": "Seal and stamp on the written document"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 21,
+    "question": "All contracts are governed by the general principle of the law of contract as specified in the",
+    "options": {
+      "A": "Contracts Act 1950",
+      "B": "Companies Act 1965",
+      "C": "Insurance Act 1996",
+      "D": "Financial Services Act 2013"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "question": "In Malaysia, insurers are corporations formed and registered under the Companies Act 1965 as",
+    "options": {
+      "A": "Private Listed Companies",
+      "B": "Public Listed Companies",
+      "C": "Public Limited Companies",
+      "D": "Private Limited Companies"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 23,
+    "question": "When applying for an insurance contract, who makes the offer?",
+    "options": {
+      "A": "The broker",
+      "B": "The agent",
+      "C": "The proposer",
+      "D": "The insurer"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 24,
+    "question": "According to the text, agents must exercise proper ____________ in the performance of their duties.",
+    "options": {
+      "A": "Care and skill",
+      "B": "Good faith",
+      "C": "Diligence",
+      "D": "Work ethics"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 25,
+    "question": "Agents must perform their duties in person and may not _____________ to a ‘sub-agent’ except for routine clerical and administrative tasks to employees.",
+    "options": {
+      "A": "Delegate",
+      "B": "Give",
+      "C": "Offer",
+      "D": "Transfer"
+    },
+    "answer": "A"
+  }
